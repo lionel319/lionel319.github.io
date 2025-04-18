@@ -1,4 +1,22 @@
-                                                                                                                                                                                                                                         
+                                                                                                                                                                                 # This is the master
+good `idead` is there to choose
+## hahahahahaha
+### ok 
+#### All tis fine
+asd asd 
+ads asd asdas das das da sda sd as das da  
+asd asd 
+##### hahahahahaha
+great mind thinks alike,
+```python
+def close():
+    if asd:
+        pass
+    else:
+        print(SHIT)
+```
+this is another thing
+
 ## Print Out This User Guide 
     > myhelper -q 'user guide' 
     > myhelper -q 'what can you do' 
